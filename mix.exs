@@ -3,7 +3,7 @@ defmodule Study190627.MixProject do
 
   def project do
     [
-      app: :study_190627,
+      app: :functional_programming_game_sample,
       version: "0.1.0",
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,
