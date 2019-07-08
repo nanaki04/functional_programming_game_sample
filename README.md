@@ -61,10 +61,10 @@ $ iex -S mix --sname player_2 --cookie mycookie
 iex> Node.connect(:"player_1@mycomputername")
 ```
 
-![](images/p1_connect.png)
-![](images/p2_connect.png)
-![](images/p1_turn.png)
-![](images/p2_turn.png)
-![](images/p1_victory.png)
-![](images/p2_victory.png)
+![](docs/images/p1_connect.png)
+![](docs/images/p2_connect.png)
+![](docs/images/p1_turn.png)
+![](docs/images/p2_turn.png)
+![](docs/images/p1_victory.png)
+![](docs/images/p2_victory.png)
 
